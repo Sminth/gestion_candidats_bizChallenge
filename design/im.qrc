@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="prefix1">
+    <file>Bible.png</file>
+    <file>image.png</file>
+  </qresource>
+</RCC>
